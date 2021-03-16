@@ -1,0 +1,16 @@
+.header {
+    text-align: center;
+}
+.header img{
+    height: 80px;
+    margin: 10px 0;
+}
+nav{
+    background: #000;
+}
+nav a{
+    color: #fff;
+    padding: 10px 20px;
+    display: inline-block;
+    text-decoration: none;
+}
