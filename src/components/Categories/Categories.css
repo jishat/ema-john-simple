@@ -1,0 +1,15 @@
+.categories{
+    background-color: #f1f1f1;
+}
+.categories h2{
+    margin: 0;
+    font-size: 16px;
+    padding: 10px 25px;
+    color: #5d5d5d;
+}
+.categories span{
+    padding: 10px 30px;
+    background: #ff9800;
+    color: #000;
+    cursor: pointer;
+}
